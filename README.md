@@ -1,4 +1,4 @@
-# ebayList
+# ebayScraper
 Basic frontend to show firestore data pulling from ebay.
 **This project does not follow proper measures for securely using API keys.**
 The goal of this project is to show how a fully automated webscraping function could be implemented using the Google Cloud Platform and Firestore Database.
